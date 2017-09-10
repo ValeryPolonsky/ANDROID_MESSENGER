@@ -1,0 +1,5 @@
+include ':uIAnimationEasingFunctions'
+include ':uIMaterialdialogsLib'
+include ':viewhelperlibrary'
+include ':uIAndroidViewAnimations'
+include ':beehive'

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\eventbus-3.0.0_22f9d2fe590555b67f9a9aceb10cfc0f1be35d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\Desktop\AndroidChat\uIAndroidViewAnimations\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51176c19df5254d93685b29d925a6df68d93b07f">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_fe35f955d8f400a8513a167d78e86a0aa92f2789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\Desktop\AndroidChat\uIAnimationEasingFunctions\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a70779f04c76ae29cc79ccae50a9b00546f2364">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_d1c188d672723888367163f7420fc18ed6acd667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_5ce5c30b0c8ad3f67cc8a3051342fdec807c867e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\a9f9e4f71f91dce2f61c76f793b036be4037ce72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_116cf7a45d3f7907b66ae55ff3638edd70971505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\f4952dda6cd2d961180a8d598335449b333df20b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_be12696e168d691748fe16e927983d5ac8efaa20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\3aeb4e69bea0692088b7eadc8d3ceb49a4c795cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_722d08ab4e345cd005606f7555a73cf986847b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\Desktop\AndroidChat\viewhelperlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0eaec4d96747dc7b18c37659bfda5ed28d9ba54d">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_37e246af231bb495fda506f298af21a05ee90782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\ecbeae7d88825b896ce1c886067e068e77baeeb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_905d0d8115eb7e9bddc9049318463b70befab9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\155715d862c38a33f2d8e5236dbf4d705b96a55e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_52c2beac52c1e1cdfbca885e0f1061c055dbbc2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\ce1c6c905ecb13b63a8f6687975f3bbe93c5903d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_079b1daebd8c5b4d23629337d1a102133b04acea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\2cf410f5d45b76b961283b31da83c7e6c8d3df91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_8de18e4bdd8e8313144d7003642eeab075a761a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\53c8692219560f959254a963e5cc2ceb0030b318\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_8e41f50927b2ed0b7c05f20405a44bdf1b018f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\2e2f832539f73f9fbdb1ef9bd665e79265b0e55d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_808140b9975d04760884e0812c7e1593d724d551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\7df922d4551adaa4890ec3b9f8a4e6fd86087b32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_8e8ee2aacca84333ceb18ef5802438cc157a6fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\8e6b421dd29ecdb7643983ac171160cedd6427b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_c074af6945caef4daff28edf6f5146d10a350dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\33477c1dcd74d42390fade880cf4c1532fee6812\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_9714638dd5dc3a60e3512879a13c11a4b9ba5f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\Desktop\AndroidChat\uIMaterialdialogsLib\build\intermediates\bundles\default\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e215f5635541f83afc205b2ab664efdb89de6fb">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_bfff9130af0d71dfeb025bbbffd3d1a0480e3a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\3d6b9ef0b217b760faf17ce48d1d35bf22fa0ebf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_a013d7d605fce400c605c1f6babcb3545a12a437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\738370cae502997690d410f68bf8aa84db47826d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_dae533423e0837b5b5b68ba3047a21ae5fc3c628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\cd5ba5d4255a9d503820149f17b03250bda556a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_56763ebd53370479bcca81d045cfd804dae0b359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\Desktop\AndroidChat\uIMaterialdialogsLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb8f425b096d65aa9d687a2d6bbfa590d0793d30">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_475f16adad0acaec818806997679e6fc39c06ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\6dd276765df40c78ed2e45139e4f4794c408f3d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_d83970415291c67d6810498055bbd7686844bd71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\8fda1f4b7b5c9cc1e86df96b901f3af86c1447ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_8b630ee4baa7edab5c0c5085f32eb65e851ce3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\bb1d3a59953be33d5114c080d1e0b1b1509a35f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_314d62b9e4fb7a7512ead362d13705bb50f7f20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\50921325d6057d7311c72053becd08aba78174bc\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_bc6b4f2569c78ab8206825bdc034f7129f6265a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\valerius1001\.android\build-cache\50921325d6057d7311c72053becd08aba78174bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\valerius1001\Desktop\AndroidChat\beehive\build\intermediates\pre-dexed\debug\classes_6bd670442f4a1b824ab5751d7f4d099c869060bf.jar" />
+    </item>
+
+</items>

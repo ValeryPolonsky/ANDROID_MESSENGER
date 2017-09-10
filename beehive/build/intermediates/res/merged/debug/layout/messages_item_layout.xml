@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:listSelector="@drawable/icons_selector"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/personale_friend_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <design.chat.template.RoundedImageView
+            android:id="@+id/personal_profile_imageview"
+            android:layout_width="@dimen/rounded_image_height_width"
+            android:layout_height="@dimen/rounded_image_height_width"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/view_left_right_margin"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            app:riv_border_color="@color/blue"
+            app:riv_border_width="@dimen/rounded_border_width"
+            app:riv_oval="true" />
+
+        <ProgressBar
+            android:id="@+id/load_contact_avatar_progressBar"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_width="40dp"
+            android:visibility="gone"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            />
+
+
+        <LinearLayout
+            android:id="@+id/name_time_view"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/name_time_view_height"
+            android:layout_marginTop="@dimen/view_left_right_margin"
+            android:layout_toRightOf="@id/personal_profile_imageview"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <TextView
+                android:id="@+id/name_textview"
+                style="@style/FriendsNameTextStyle"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.70"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/view_left_right_margin"
+                android:paddingRight="@dimen/view_left_right_margin"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/time_textview"
+                style="@style/TimeTextStyle"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.30"
+                android:gravity="center|right"
+                android:paddingRight="@dimen/view_left_right_margin"
+                android:text="11:30 AM" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/message_image_view"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/name_time_view_height"
+            android:layout_below="@id/name_time_view"
+            android:layout_toRightOf="@id/personal_profile_imageview"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <TextView
+                android:id="@+id/message_textview"
+                style="@style/MessageTextStyle"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/view_left_right_margin"
+                android:paddingRight="@dimen/view_left_right_margin"
+                android:text="Hi how are you??" />
+
+            <!--<ImageView-->
+                <!--android:id="@+id/reply_send_imageview"-->
+                <!--android:layout_width="@dimen/reply_send_image_height_width"-->
+                <!--android:layout_height="@dimen/reply_send_image_height_width"-->
+                <!--android:layout_marginRight="@dimen/view_left_right_margin"-->
+                <!--android:gravity="center|right" />-->
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/divider"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/divider_height"
+            android:layout_below="@id/message_image_view"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            android:layout_toRightOf="@id/personal_profile_imageview"
+            android:background="@drawable/divider" />
+    </RelativeLayout>
+
+</LinearLayout>

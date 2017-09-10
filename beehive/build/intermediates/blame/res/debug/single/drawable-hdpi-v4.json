@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_group.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_group.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logout.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notifications.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_group_add.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_group_add.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_help.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vibration.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_vibration.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_clear.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\3aeb4e69bea0692088b7eadc8d3ceb49a4c795cc\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_overflow.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_picture.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_app.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_more_app.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_phone_start_blue.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_phone_start_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_tick_blue.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_tick_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_name.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_user_name.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_phone_start.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_phone_start.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pullheader_indicator.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\pullheader_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_person_add.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_person_add.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiley.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_smiley.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_privacy.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_drawer.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_ab_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recording.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_recording.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_radio_button_off.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_radio_button_off.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_location_blue.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_location_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ringtone.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_ringtone.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_report_problem.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_report_problem.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_back.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_send.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_send.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_location.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\3aeb4e69bea0692088b7eadc8d3ceb49a4c795cc\\output\\res\\drawable-hdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_radio_button_on.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_radio_button_on.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_term_of_service.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_term_of_service.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_message.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_message.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_reply.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_reply.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_update.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_update.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_done.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_done.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\3aeb4e69bea0692088b7eadc8d3ceb49a4c795cc\\output\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_theme.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\3aeb4e69bea0692088b7eadc8d3ceb49a4c795cc\\output\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exit.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_password.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sound.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_licenses.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_licenses.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_about.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search_grey.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_search_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_font_bigger.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_action_font_bigger.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_send.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plus.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

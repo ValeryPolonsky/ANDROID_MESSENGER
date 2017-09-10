@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/screen_bg" >
+
+    <RelativeLayout
+        android:id="@+id/msg_bottom_ads_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" >
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/msg_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/msg_bottom_ads_view"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="vertical"
+        android:listSelector="@drawable/icons_selector"
+        android:smoothScrollbar="true" />
+
+    <FrameLayout
+        android:id="@+id/message_container"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/view_left_right_margin" >
+    </FrameLayout>
+
+    <design.chat.template.ProgressBarCircular
+        android:id="@+id/msg_progress"
+        android:layout_width="@dimen/progressbar_height_width"
+        android:layout_height="@dimen/progressbar_height_width"
+        android:layout_centerInParent="true"
+        android:textSize="@dimen/progressbar_text_size"
+        android:visibility="visible" />
+
+</RelativeLayout>

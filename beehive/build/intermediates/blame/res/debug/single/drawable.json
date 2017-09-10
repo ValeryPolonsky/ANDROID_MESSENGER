@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_rounded_bg.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\blue_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.9.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\divider.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing_message_bg.9.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\outgoing_message_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab5.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab5.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab6.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab6.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab7.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab7.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab4.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab4.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab1.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_pressed.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\rect_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_error.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\rect_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_bg_opacity.9.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\popup_bg_opacity.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\group_rounded_bg.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\group_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\login_background.jpg",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\login_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_rounded_bg.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\grey_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_tick.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab_tick.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\background_card.9.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\background_card.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_complete.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\rect_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab3.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\beehive_logo_icon.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\beehive_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_progress.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\rect_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab8.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab8.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\green_rounded_bg.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\green_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\google_maps_icon.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\google_maps_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab9.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab9.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab2.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\login_background2.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\login_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_normal.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\rect_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_bg.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\uIMaterialdialogsLib\\build\\intermediates\\bundles\\default\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar_default_user.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\avatar_default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\fab10.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\fab10.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\5614e6ca0f1c4a9871f4cb4b79bb2636572dc6d9\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\doted.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\doted.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming_message_bg.9.png",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\incoming_message_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\icons_selector.xml",
+        "source": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\src\\main\\res\\drawable\\icons_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\valerius1001\\Desktop\\AndroidChat\\beehive\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\valerius1001\\.android\\build-cache\\ecbeae7d88825b896ce1c886067e068e77baeeb9\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    }
+]

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:float="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res/design.chat.template"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/screen_bg" >
+
+    <RelativeLayout
+        android:id="@+id/title_view"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/chat_title_item_height"
+        android:background="@drawable/icons_selector" >
+
+
+        <ImageView
+            android:id="@+id/back_imageview"
+            android:layout_width="@dimen/back_image_height_width"
+            android:layout_height="@dimen/back_image_height_width"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icons_selector"
+            android:onClick="viewClikedHandler"
+            android:src="@drawable/ic_action_back" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/back_imageview" >
+
+            <TextView
+                android:id="@+id/user_name_textview"
+                style="@style/FriendsNameTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="User name " />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/divider"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/divider_height"
+        android:layout_below="@id/title_view"
+        android:layout_marginTop="@dimen/view_left_right_padding"
+        android:background="@drawable/divider" />
+
+    <LinearLayout
+        android:id="@+id/message_button_view_parent"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/message_bottom_view_height"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/divider_height"
+            android:background="@drawable/divider" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <design.chat.template.FloatLabeledEditText
+                android:id="@+id/new_message_layout"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/new_message_edittext_height"
+                android:layout_weight=".80"
+                app:fletPaddingLeft="@dimen/view_left_right_margin"
+                app:fletTextAppearance="@style/FloatingTextStyle" >
+
+                <EditText
+                    android:id="@+id/new_message_edittext"
+                    style="@style/EditTextStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/new_message_edittext_height"
+                    android:cursorVisible="true"
+                    android:ellipsize="end"
+                    android:gravity="left|center_vertical"
+                    android:hint="@string/write_message"
+                    android:paddingLeft="@dimen/view_left_right_margin"
+                    android:paddingRight="@dimen/extra_margin"
+                    android:singleLine="true"
+                    android:textColorHint="@color/grey"
+                    android:textCursorDrawable="@drawable/color_cursor" />
+            </design.chat.template.FloatLabeledEditText>
+
+            <RelativeLayout
+                android:id="@+id/location_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/location_image_width_height"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="0.20"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/location_imageview"
+                    android:layout_width="@dimen/location_image_width_height"
+                    android:layout_height="@dimen/location_image_width_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_action_location" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/message_button_view"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/message_button_bottom_view_height"
+            android:layout_gravity="bottom"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <RelativeLayout
+                android:id="@+id/text_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/message_button_bottom_view_height"
+                android:layout_weight="0.16"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/text_imageview"
+                    android:layout_width="@dimen/message_button_height"
+                    android:layout_height="@dimen/message_button_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_action_font_bigger" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/camera_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/message_button_bottom_view_height"
+                android:layout_weight="0.16"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/camera_imageview"
+                    android:layout_width="@dimen/message_button_height"
+                    android:layout_height="@dimen/message_button_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_camera" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/picture_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/message_button_bottom_view_height"
+                android:layout_weight="0.16"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/picture_imageview"
+                    android:layout_width="@dimen/message_button_height"
+                    android:layout_height="@dimen/message_button_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_picture" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/smiley_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/message_button_bottom_view_height"
+                android:layout_weight="0.16"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/smiley_imageview"
+                    android:layout_width="@dimen/message_button_height"
+                    android:layout_height="@dimen/message_button_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_smiley" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/recording_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/message_button_bottom_view_height"
+                android:layout_weight="0.16"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/recording_imageview"
+                    android:layout_width="@dimen/message_button_height"
+                    android:layout_height="@dimen/message_button_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_recording" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/send_parent"
+                android:layout_width="0dip"
+                android:layout_height="@dimen/message_button_bottom_view_height"
+                android:layout_weight="0.20"
+                android:background="@drawable/icons_selector"
+                android:onClick="viewClikedHandler" >
+
+                <ImageView
+                    android:id="@+id/send_imageview"
+                    android:layout_width="@dimen/send_button_height"
+                    android:layout_height="@dimen/send_button_height"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/ic_send" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/content_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/message_button_view_parent"
+        android:layout_below="@id/divider" >
+
+        <ListView
+            android:id="@+id/msg_list_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:cacheColorHint="#00000000"
+            android:fadingEdge="vertical"
+            android:listSelector="@color/transparent"
+            android:smoothScrollbar="true" />
+    </RelativeLayout>
+
+</RelativeLayout>

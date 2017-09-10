@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/slider_view"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/slider_item_height"
+        android:weightSum="1" >
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.30" />
+
+        <design.chat.template.CustomDescriptionTextview
+            android:id="@+id/text_name"
+            style="@style/SliderTitleTextStyle"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="0.70" />
+    </LinearLayout>
+
+    <design.chat.template.SmartDrawer
+        android:id="@+id/drawer"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/smart_drawer_item_height"
+        android:layout_below="@id/slider_view"
+        android:orientation="vertical"
+        app:init_height="@dimen/smart_drawer_item_height"
+        app:init_open="false" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/theme_default"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/default_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/default_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/theme_red"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/red_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/red" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/theme_blue"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/blue_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/blue" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/theme_grey"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/grey_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/material_grey" />
+            </LinearLayout>
+            
+            <LinearLayout
+                android:id="@+id/theme_brown"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/brown_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/brown" />
+            </LinearLayout>
+            
+            
+            <LinearLayout
+                android:id="@+id/theme_lime"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/lime_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/lime" />
+            </LinearLayout>
+            
+            
+            <LinearLayout
+                android:id="@+id/theme_green"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/green_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/green" />
+            </LinearLayout>
+            
+            
+            <LinearLayout
+                android:id="@+id/theme_pink"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/pink_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/pink" />
+            </LinearLayout>
+            
+             <LinearLayout
+                android:id="@+id/theme_purple"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/purple_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/purple" />
+            </LinearLayout>
+            
+             
+              <LinearLayout
+                android:id="@+id/theme_amber"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/slider_item_height"
+                android:layout_marginLeft="@dimen/smart_drawer_margin"
+                android:layout_weight="1"
+                android:background="@drawable/list_selector"
+                android:clickable="true"
+                android:gravity="center|left" >
+
+                <ImageView
+                    android:id="@+id/amber_radio_imageview"
+                    android:layout_width="@dimen/radio_width_height"
+                    android:layout_height="@dimen/radio_width_height"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_radio_button_off" />
+
+                <TextView
+                    style="@style/SmartDrawerTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/view_left_right_margin"
+                    android:text="@string/amber" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </design.chat.template.SmartDrawer>
+
+</RelativeLayout>

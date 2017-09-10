@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:float="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res/design.chat.template"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/screen_bg" >
+
+    <design.chat.template.ProgressBarCircular
+        android:id="@+id/msg_progress"
+        android:layout_width="@dimen/progressbar_height_width"
+        android:layout_height="@dimen/progressbar_height_width"
+        android:layout_centerInParent="true"
+        android:textSize="@dimen/progressbar_text_size"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/edittext_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <design.chat.template.FloatLabeledEditText
+            android:id="@+id/search_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/view_left_right_margin"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            app:fletPaddingLeft="@dimen/floating_edittext_margin"
+            app:fletPaddingTop="@dimen/view_left_right_margin"
+            app:fletTextAppearance="@style/FloatingTextStyle" >
+
+
+
+
+            <ImageView
+                android:id="@+id/search_imageview"
+                android:layout_width="@dimen/search_image_height_width"
+                android:layout_height="@dimen/search_image_height_width"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginTop="@dimen/view_left_right_margin"
+                android:background="@drawable/ic_action_search_grey" />
+
+
+
+            <EditText
+                android:id="@+id/search_edittext"
+                style="@style/EditTextStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:cursorVisible="true"
+                android:ellipsize="end"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/floating_edittext_margin"
+                android:singleLine="true"
+                android:textColorHint="@color/grey"
+                android:textCursorDrawable="@drawable/color_cursor" />
+
+
+            <ImageView
+                android:id="@+id/cancel_imageview"
+                android:layout_width="@dimen/search_close_height_width"
+                android:layout_height="@dimen/search_close_height_width"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="@dimen/view_left_right_margin"
+                android:layout_marginTop="@dimen/view_left_right_margin"
+                android:background="@drawable/icons_selector"
+                android:src="@drawable/ic_action_clear"
+                 />
+        </design.chat.template.FloatLabeledEditText>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/msg_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/edittext_view"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="vertical"
+        android:listSelector="@drawable/icons_selector"
+        android:smoothScrollbar="true" />
+
+</RelativeLayout>

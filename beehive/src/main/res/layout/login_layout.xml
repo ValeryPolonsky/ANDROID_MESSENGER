@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:float="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res/design.chat.template"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login_background2" >
+
+    <LinearLayout
+        android:id="@+id/edittext_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+
+        <design.chat.template.FloatLabeledEditText
+            android:id="@+id/first_name_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/view_left_right_margin"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            app:fletPaddingLeft="@dimen/floating_edittext_margin"
+            app:fletPaddingTop="@dimen/view_left_right_margin"
+            app:fletTextAppearance="@style/FloatingTextStyle">
+
+            <ImageView
+                android:id="@+id/first_name_imageview"
+                android:layout_width="@dimen/login_image_height_width"
+                android:layout_height="@dimen/login_image_height_width"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="@dimen/view_left_right_margin"
+                android:layout_marginTop="@dimen/view_left_right_margin"
+                android:background="@drawable/ic_first_name" />
+
+            <EditText
+                android:id="@+id/first_name_edittext"
+                style="@style/EditTextStyleLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:hint="@string/first_name"
+                android:inputType="text"
+                android:paddingLeft="@dimen/floating_edittext_margin"
+                android:singleLine="true"
+                android:textColorHint="@color/white"
+                android:textCursorDrawable="@drawable/color_cursor" />
+        </design.chat.template.FloatLabeledEditText>
+
+        <design.chat.template.FloatLabeledEditText
+            android:id="@+id/firs_name_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/view_left_right_margin"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            app:fletPaddingLeft="@dimen/floating_edittext_margin"
+            app:fletPaddingTop="@dimen/view_left_right_margin"
+            app:fletTextAppearance="@style/FloatingTextStyle">
+
+            <ImageView
+                android:id="@+id/last_name_imageview"
+                android:layout_width="@dimen/login_image_height_width"
+                android:layout_height="@dimen/login_image_height_width"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="@dimen/view_left_right_margin"
+                android:layout_marginTop="@dimen/view_left_right_margin"
+                android:background="@drawable/ic_first_name" />
+
+            <EditText
+                android:id="@+id/last_name_edittext"
+                style="@style/EditTextStyleLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:hint="@string/last_name"
+                android:inputType="text"
+                android:paddingLeft="@dimen/floating_edittext_margin"
+                android:singleLine="true"
+                android:textColorHint="@color/white"
+                android:textCursorDrawable="@drawable/color_cursor" />
+        </design.chat.template.FloatLabeledEditText>
+
+
+        <design.chat.template.FloatLabeledEditText
+            android:id="@+id/user_name_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/view_left_right_margin"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            app:fletPaddingLeft="@dimen/floating_edittext_margin"
+            app:fletPaddingTop="@dimen/view_left_right_margin"
+            app:fletTextAppearance="@style/FloatingTextStyle">
+
+            <ImageView
+                android:id="@+id/user_name_imageview"
+                android:layout_width="@dimen/login_image_height_width"
+                android:layout_height="@dimen/login_image_height_width"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="@dimen/view_left_right_margin"
+                android:layout_marginTop="@dimen/view_left_right_margin"
+                android:background="@drawable/ic_user_name" />
+
+            <EditText
+                android:id="@+id/user_name_edittext"
+                style="@style/EditTextStyleLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:hint="@string/user_name_hint"
+                android:inputType="text"
+                android:paddingLeft="@dimen/floating_edittext_margin"
+                android:singleLine="true"
+                android:textColorHint="@color/white"
+                android:textCursorDrawable="@drawable/color_cursor" />
+        </design.chat.template.FloatLabeledEditText>
+
+        <design.chat.template.FloatLabeledEditText
+            android:id="@+id/password_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/view_left_right_margin"
+            android:layout_marginRight="@dimen/view_left_right_margin"
+            app:fletPaddingLeft="@dimen/floating_edittext_margin"
+            app:fletPaddingTop="@dimen/view_left_right_margin"
+            app:fletTextAppearance="@style/FloatingTextStyle">
+
+            <ImageView
+                android:id="@+id/password_imageview"
+                android:layout_width="@dimen/login_image_height_width"
+                android:layout_height="@dimen/login_image_height_width"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="@dimen/view_left_right_margin"
+                android:layout_marginTop="@dimen/view_left_right_margin"
+                android:background="@drawable/ic_password" />
+
+            <EditText
+                android:id="@+id/password_edittext"
+                style="@style/EditTextStyleLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:ellipsize="end"
+                android:gravity="center|left"
+                android:hint="@string/password"
+                android:inputType="textPassword"
+                android:paddingLeft="@dimen/floating_edittext_margin"
+                android:singleLine="true"
+                android:textColorHint="@color/white"
+                android:textCursorDrawable="@drawable/color_cursor" />
+        </design.chat.template.FloatLabeledEditText>
+
+        <design.chat.template.ActionProcessButton
+            android:id="@+id/btnSignIn"
+            style="@android:style/Theme.Holo.Light"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/button_height_width"
+            android:layout_margin="@dimen/view_left_right_margin"
+            android:text="@string/Sign_in"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/button_text_size"
+            custom:pb_colorComplete="@color/green_complete"
+            custom:pb_colorNormal="@color/blue_normal"
+            custom:pb_colorPressed="@color/blue_pressed"
+            custom:pb_colorProgress="@color/purple_progress"
+            custom:pb_textComplete="@string/Success"
+            custom:pb_textError="@string/Failed"
+            custom:pb_textProgress="@string/Loading" />
+
+        <design.chat.template.ActionProcessButton
+            android:id="@+id/btnSwitchUser"
+            style="@android:style/Theme.Holo.Light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/view_left_right_margin"
+            android:text="@string/switch_user"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/button_text_size"
+            custom:pb_colorNormal="@color/blue_normal" />
+    </LinearLayout>
+
+</LinearLayout>

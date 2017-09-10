@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beehive</string>
+    <string name="app_name_message">App name:</string>
+    <string name="app_version">App version:</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="users_tree">users</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="new_message">New Message</string>
+    <string name="to">To: </string>
+    <string name="mobile">Mobile</string>
+    <string name="web">Web</string>
+    <string name="active_user">CHAT CONTACTS</string>
+    <string name="upload_avatar_success">Upload avatar image successful</string>
+    <string name="upload_avatar_failed_too_big">Upload avatar failed image too big</string>
+    <string name="upload_avatar_failed">Upload avatar image failed</string>
+    <string name="write_message">Write message </string>
+    <string name="new_group">New Group </string>
+    <string name="for_school_friends">For school friends?</string>
+    <string name="for_roommates">For roommates?</string>
+    <string name="for_funny_photos">For funny photos?</string>
+    <string name="for_party">For a party?</string>
+    <string name="contentDescription">Image contentDescription</string>
+    <string name="notification">Notification</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="contact_added">Contact has been added</string>
+    <string name="contact_removed">Contact has been removed</string>
+    <string name="contact_failed">You cant add yourself dummy</string>
+    <string name="contact_exists">Contact already exists</string>
+    <string name="sound">Sound</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="location">Location</string>
+    <string name="sticker_store">Sticker Store</string>
+    <string name="help">Help</string>
+    <string name="licenses">Licenses</string>
+    <string name="privacy">Privacy</string>
+    <string name="term_of_service">Terms of service</string>
+    <string name="report_a_problem">Report a problem</string>
+    <string name="ring1">sounds/ring1.mp3</string>
+    <string name="ring2">sounds/ring2.mp3</string>
+    <string name="ring3">sounds/ring3.mp3</string>
+    <string name="ring4">sounds/ring4.mp3</string>
+    <string name="ring5">sounds/ring5.mp3</string>
+    <string name="ring6">sounds/ring6.mp3</string>
+    <string name="ring7">sounds/ring7.mp3</string>
+    <string name="logout">Logout</string>
+    <string name="share_title">Share via</string>
+    <string name="share_subject">Interesting for You!!!</string>
+    <string name="now">Now</string>
+    <string name="invite">Invite</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="switch_user">Switch user</string>
+    <string name="Success">Success</string>
+    <string name="Failed">Failed</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="fill_text">Please fill all the text</string>
+    <string name="first_name_required">First name is required!</string>
+    <string name="last_name_required">Last name is required!</string>
+    <string name="full_name_updated">First name and last updated</string>
+    <string name="full_name_not_updated">First name and last updated not updated</string>
+    <string name="password_required">"Password is required!"</string>
+    <string name="email_required">"Email is required!"</string>
+    <string name="Loading">Loading..</string>
+    <string name="search_hint">Search for people and group</string>
+    <string name="add_group_hint">Add people to the group</string>
+    <string name="group_hint">Name (ex:Friends)</string>
+    <string name="user_name_hint">Username</string>
+    <string name="password">Password</string>
+    <string name="login_succes">Sign in successfully</string>
+    <string name="login_failed">Sign in failed</string>
+    <string name="choose">Choose</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="conversation">Conversation</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="pulldown_refreshing">loading..</string>
+    <string name="pulldown_pull">pull to refresh!</string>
+    <string name="pulldown_release">release to refresh!</string>
+    <string name="ok">OK</string>
+    <string name="setNameMessage">first name and last name</string>
+    <string name="setName">Set your name</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="useGoogleLocationServices">Use Google\'s Location Services?</string>
+    <string name="useGoogleLocationServicesPrompt">Let Google help apps determine location. This means sending anonymous location data to Google, even when no apps are running.</string>
+    <string name="loremIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae metus nec sapien elementum interdum ac mollis tortor. Nunc porttitor metus placerat orci auctor, sed dictum magna dapibus. Morbi a lacus ante. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin posuere nisl imperdiet lectus elementum accumsan. Etiam lacinia nisi ut nulla fermentum tempus. Integer ornare lacinia diam non maximus. Vestibulum iaculis urna eu elementum scelerisque. Etiam nisl erat, bibendum vitae magna nec, convallis malesuada erat. Cras non porttitor nibh. Pellentesque rhoncus sem luctus felis tincidunt bibendum. Pellentesque vulputate eros at nulla sollicitudin volutpat. Pellentesque laoreet est sit amet erat laoreet, id molestie nulla efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed varius nisl at imperdiet facilisis.</string>
+    <string name="response_message">If you have any problems with running this application or you would like to give suggestions please send email to the below address: </string>
+
+    <!-- Material color -->
+
+    <string name="default_color">DEFAULT</string>
+    <string name="red">MATERIAL RED</string>
+    <string name="blue">MATERIAL BLUE</string>
+    <string name="material_grey">MATERIAL GREY</string>
+    <string name="brown">MATERIAL BROWN</string>
+    <string name="lime">MATERIAL LIME</string>
+    <string name="green">MATERIAL GREEN</string>
+    <string name="pink">MATERIAL PINK</string>
+    <string name="purple">MATERIAL PURPLE</string>
+    <string name="amber">MATERIAL AMBER</string>
+
+
+    <!-- Ringtone name -->
+    
+    <string name="ringtone_1">Ringtone 1</string>
+    <string name="ringtone_2">Ringtone 2</string>
+    <string name="ringtone_3">Ringtone 3</string>
+    <string name="ringtone_4">Ringtone 4</string>
+    <string name="ringtone_5">Ringtone 5</string>
+    <string name="ringtone_6">Ringtone 6</string>
+    <string name="ringtone_7">Ringtone 7</string>
+    <!-- Slider string -->
+
+    <string-array name="nav_drawer_items">
+        <item>More App</item>
+        <item>Updates</item>
+        <item>Skins</item>
+        <item>About</item>
+        <item>Exit</item>
+    </string-array>
+
+    <!-- Slider icon -->
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_more_app</item>
+        <item>@drawable/ic_update</item>
+        <item>@drawable/ic_theme</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_exit</item>
+    </array>
+
+    <string-array name="search_option_string">
+        <item>Open Conversation</item>
+        <item>Add to contacts list</item>
+    </string-array>
+
+    <string-array name="contacts_option_string">
+        <item>Open Conversation</item>
+        <item>Remove from contacts list</item>
+    </string-array>
+    <string-array name="upload_photo_string">
+        <item>Open Gallery</item>
+        <item>Open Camera</item>
+        <item>View Image</item>
+    </string-array>
+    <string-array name="photo_string">
+        <item>Open Gallery</item>
+        <item>Open Camera</item>
+    </string-array>
+    <string-array name="message_string">
+        <item>Archive</item>
+        <item>Mark as unread</item>
+        <item>Mark as spam</item>
+        <item>Delete</item>
+        <item>Copy</item>
+        <item>Past</item>
+        <item>Cut</item>
+        <item>Mute notifiction</item>
+        <item>Mute sound</item>
+        <item>Mute location</item>
+        <item>Mute ringtone</item>
+        <item>Create shortcuts</item>
+    </string-array>
+    <string-array name="ringtone_string">
+        <item>Ringtone 1</item>
+        <item>Ringtone 2</item>
+        <item>Ringtone 3</item>
+        <item>Ringtone 4</item>
+        <item>Ringtone 5</item>
+        <item>Ringtone 6</item>
+        <item>Ringtone 7</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
